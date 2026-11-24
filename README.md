@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Earn antimatter through dimensions! Gain Infinite antimatter to collapse the universe!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | MacOS 10.9 or later |
+| **Processor** | 1.1GHz | 1.1GHz |
+| **Memory** | 4 GB RAM | 4 GB RAM |
+| **Storage** | 100 MB available space | 100 MB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7 or higher | Windows 7 or higher |
 
 ---
 
